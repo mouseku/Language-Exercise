@@ -1,0 +1,2 @@
+C:\Users\mouse\Programming\C\Backjoon\Debug\Backjoon.exe
+C:\Users\mouse\Programming\C\Backjoon\Debug\Backjoon.pdb
